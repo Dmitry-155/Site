@@ -1,4 +1,4 @@
-public class investment
+public class Investment
 {
     public int Id { get; set; }
     public string Описание { get; set; }

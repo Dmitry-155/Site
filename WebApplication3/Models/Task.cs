@@ -6,10 +6,10 @@ using System.Web;
 
 namespace modelsTraining2.Models
 {
-    public class investmentContext : DbContext
+    public class InvestmentContext : DbContext
     {
-        public investmentContext() : base("DbConnection")
+        public InvestmentContext() : base("DbConnection")
         {}
-        public DbSet<investment> Вложения_к_обращению { get; set; }
+        public DbSet<Investment> Вложения_к_обращению { get; set; }
     }
 }

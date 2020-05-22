@@ -7,11 +7,11 @@ using System.Web.Mvc;
 
 namespace modelsTraining2.Controllers
 {
-    public class investmenController : Microsoft.AspNetCore.Mvc.Controller
+    public class InvestmenController : Microsoft.AspNetCore.Mvc.Controller
     {
         public Microsoft.AspNetCore.Mvc.ActionResult Show()
         {
-            investmentContext db = new investmentContext();
+            InvestmentContext db = new InvestmentContext();
             return View(db.Вложения_к_обращению);
         }
     }

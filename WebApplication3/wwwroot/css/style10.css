@@ -1,0 +1,239 @@
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	color: #ffffff;
+}
+
+
+h1{
+	padding: 20px;
+	font-size: 12px;
+	font-weight: normal;
+}
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+		
+.intro1 {
+	width: 100%;
+	height: 100%;
+	background: url("../images/cat.png") center top no-repeat #1a79f3 ;
+	-webkit-background-size: conint;
+	background-size: auto;
+	padding-bottom: 160px;
+	
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+
+.block5 {
+position: absolute;
+left: 50%;
+top: 100px;
+margin-left: -400px;
+background: #ffffff;
+border-radius: 10px;
+width: 800px;
+height: 728px;
+}
+
+ p {    
+font-size: 15px;   
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.14;
+letter-spacing: normal; 
+color: #131313;
+margin-top: -25px;
+  }
+   
+.logo {
+font-size: 24px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+letter-spacing: normal;
+color: #000000;
+padding-left: 50px;
+position: absolute;
+top: 10%;
+}
+
+p.text {
+padding-left: 50px;
+position: absolute;
+top: 20%;	
+}
+
+.logo2 {
+font-size: 15px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+letter-spacing: normal;
+color: #332a7c;
+padding-left: 50px;
+position: absolute;
+top: 4%;	
+}
+
+.decor {
+  position: relative;
+  margin: 150px auto 0;
+}
+
+.form-inner {padding: 50px;}
+.form-inner input,
+.form-inner textarea {
+  display: block;
+  width: 100%;
+  padding: 0 20px;
+  margin-bottom: 10px;
+  background: #ffffff;
+  line-height: 40px;
+  border-width: 0;
+  border-radius: 10px;
+  border: solid 1px #dee3eb;
+  font-family: 'Roboto', sans-serif;
+}
+.form-inner input[type="submit"] {
+  margin-top: 70px;
+  background: #007aff;
+  
+  font-family: Montserrat;
+  font-size: 16px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.25;
+  letter-spacing: normal;
+  text-align: center;
+  color: white;
+  font-size: 14px;
+  width: 188px;
+  height: 60px;
+}
+
+.Rectangle {
+  width: 680px;
+  height: 56px;
+  position: relative;
+  margin: 0;
+  top: -50px;
+
+}
+
+.Rectangle2 {
+  
+  position: relative;
+  margin: 0;
+  top: 50px;
+
+}
+
+
+p {
+color: #000000;
+font-family: Montserrat;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 60px;
+}
+
+p.cite {
+position: relative;
+top: 5px;
+color: #abb1b9;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 500;
+font-stretch: normal;
+font-style: normal;
+ 
+letter-spacing: normal;
+}
+
+.example-1.form-group{
+padding:1em;
+margin:1em
+}
+	
+.example-1 input[type=file]{
+outline:0;
+opacity:0;
+pointer-events:none;
+user-select:none
+}
+
+.example-1 .label{
+width: 112px;
+height: 72px;
+border: 2px dashed #dee3eb;
+border-radius:4px;
+display:block;
+padding:1.2em;
+transition:border 300ms ease;
+cursor:pointer;
+text-align:center;
+position: relative;
+top: 50px;
+font-size:12px;
+}
+.example-1 .label i{
+display:block;
+font-size:42px;
+padding-bottom:0px
+}
+.example-1 .label i,.example-1 .label .title{
+color:grey;
+transition:200ms color
+}
+.example-1 .label:hover{
+border:2px solid #dee3eb
+}
+.example-1 .label:hover i,.example-1 .label:hover .title{
+color:#abb1b9
+}
+
+p.text1{
+position: relative;
+top: 55px;	
+}
+
+p.text2{
+position: relative;
+top: 60px;
+color: #abb1b9;
+font-family: Montserrat;
+font-size: 14px;
+font-weight: 500;
+font-stretch: normal;
+font-style: normal;
+letter-spacing: normal;	
+}
+
+.menu a {
+position: relative;
+left: 6.3%;
+top: 42.5px;
+font-size: 15px;
+}

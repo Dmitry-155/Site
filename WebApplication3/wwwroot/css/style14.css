@@ -1,0 +1,131 @@
+body {
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 10px;
+	line-height: 1.6;
+	color: #ffffff;
+}
+
+h1{
+	padding: 20px;
+	font-size: 12px;
+	font-weight: normal;
+}
+
+*,
+*:before,
+*:after {
+	box-sizing: border-box;
+}
+
+.container {
+	width: 100%;
+	max-width: 1200px;
+	margin: 0 auto;
+}
+
+		
+.intro1 {
+	width: 100%;
+	height: 100%;
+	background: url("../images/cat.png") center top no-repeat #1a79f3 ;
+	-webkit-background-size: conint;
+	background-size: auto;
+	padding-bottom: 160px;
+	
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+
+.block5 {
+position: absolute;
+left: 50%;
+top: 100px;
+margin-left: -400px;
+background: #ffffff;
+border-radius: 10px;
+width: 800px;
+height: 524px;
+}
+
+ p {    
+font-size: 15px;   
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+line-height: 1.14;
+letter-spacing: normal; 
+color: #131313;
+margin-top: -25px;
+  }
+   
+.logo {
+font-size: 24px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+letter-spacing: normal;
+position: absolute;
+margin-left: 55px;
+top: 17.5%;
+}
+
+
+
+
+
+
+
+.block2 {
+position: absolute;
+left: 72%;
+top: 150px;
+margin-left: 15px;
+background: #e5eaf1;
+border-radius: 10px;
+width: 170px;
+height: 60px;
+font-size: 20px;
+font-weight: bold;
+font-stretch: normal;
+font-style: normal;
+line-height: 5;
+letter-spacing: normal;
+color: #332a7c;
+padding-left: 25px;
+}
+
+p.text {
+padding-left: 50px;
+position: absolute;
+top: 20%;	
+}
+
+.logo2 {
+font-size: 15px;
+font-weight: normal;
+font-stretch: normal;
+font-style: normal;
+letter-spacing: normal;
+color: #332a7c;
+padding-left: 50px;
+position: absolute;
+top: 4%;	
+
+}
+
+.menu a {
+position: relative;
+left: 7%;
+top: 45px;
+font-size: 15px;
+}
+
+
+
